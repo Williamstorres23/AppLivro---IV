@@ -1,50 +1,67 @@
-# Welcome to your Expo app 👋
+# 📚 Leia.Me — Seu novo melhor amigo para explorar livros!
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Se você ama livros (ou quer começar a amar), o **Leia.Me** é o aplicativo perfeito para você!  
+Aqui você encontra um universo de histórias, autores incríveis e aquele resumo que te deixa com vontade de devorar o livro.  
 
-## Get started
+---
 
-1. Install dependencies
+## ✨ Funcionalidades
 
-   ```bash
-   npm install
-   ```
+- 📖 Descubra livros incríveis com detalhes que vão além da capa  
+- ✍️ Saiba quem escreveu, quando foi lançado e quantas páginas vão te prender  
+- 🎭 Explore gêneros variados para qualquer clima — romance, aventura, suspense e muito mais  
+- 🧠 Leia resumos que te dão o gosto da história **sem spoilers**  
+- ⭐ Avalie os livros com estrelas e compartilhe sua opinião  
+- 💖 Favorite os seus livros preferidos e acesse-os facilmente  
+- 🔎 Busque rapidamente pelo livro que procura  
+- 💬 Deixe comentários sobre suas leituras e veja o que outros leitores acharam  
+- 💎 Interface limpa e fácil de usar, porque seu tempo é precioso  
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## ☁️ Integração com Firebase
 
-In the output, you'll find options to open the app in a
+O **Leia.Me** utiliza o [Firebase](https://livroapp.web.app/) para oferecer uma experiência completa e sincronizada em qualquer dispositivo.  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### 🔑 Funcionalidades integradas com Firebase
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- 👤 **Autenticação de usuários** (login com email/senha)  
+- 💾 **Firestore Database**: armazenamento em tempo real de livros, avaliações, comentários e favoritos  
+- 🔄 **Sincronização entre dispositivos**  
+- ⭐ **Avaliação por estrelas** salva na nuvem  
+- 💬 **Comentários dos leitores** em tempo real  
+- 💖 **Favoritos** guardados no Firestore, acessíveis em qualquer login  
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 🛠️ Como dar os primeiros passos?
 
-```bash
-npm run reset-project
+Clone esse cantinho literário no seu computador:
+
+``` bash
+git clone https://github.com/seuusuario/leia.me.git
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Depois disso, instale as dependências e inicie o projeto:
 
-## Learn more
+``` bash
+cd leia.me
+npm install
+npm start
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+------------------------------------------------------------------------
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 📺 Fotos demonstrativas
 
-## Join the community
+Veja o Leia.Me em ação:
 
-Join our community of developers creating universal apps.
+[📁 Acesse as fotos no Google
+Drive](https://drive.google.com/drive/folders/1cj_V0h_lIKiPhAm56kbIfl5nXSyl24MN?usp=sharing)
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+------------------------------------------------------------------------
+
+## 👩🏼‍💻👨🏼‍💻 Desenvolvido por
+
+Maria Fernanda & Williams Torres\
+Com carinho e código! 💛
